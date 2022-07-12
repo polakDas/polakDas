@@ -1,16 +1,29 @@
-### Hi there 👋
+### Bonjour 🙂
 
-<!--
-**polakDas/polakDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Polak Das, a learner 🎨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|T|h|i|n|g|s||I||💚|:|
+| - | - | - | - | - | - | - | - | - | - | - |
+| | | |`P`| | | | | | |`L`|
+| |`D`|`E`|`S`|`I`|`G`|`N`| | | |`E`|
+|`M`| | |`Y`| |`O`| | |`C`| |`G`|
+|`I`| | |`C`|`O`|`D`|`E`| |`O`| |`A`|
+|`N`| | |`H`| | | | |`L`| |`C`|
+|`I`| |`S`|`O`|`C`|`I`|`O`|`L`|`O`|`G`|`Y`|
+|`M`| | |`L`|| | | |`R`| | |
+|`A`| | |`O`| |`L`| | | | | |
+|`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
+|`I`| | |`Y`| |`N`|`E`| | | | |
+|`S`| | | | |`U`|`M`| | | | |
+|`M`| | | | |`X`| | | | | |
+
+- 🔭 I’m currently working on a 'Inventory Management System'[^1].
+- 🌱 I’m currently learning Django, Git, Docker
+- 👯 I’m looking to collaborate on Python based project
+- 🤔 I’m looking for help with Docker
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/polak-das-shawon)
+
+-----
+
+[^1]: Private repository. [Demo](https://https://inventory.thecreationbd.com/ "The Creation BD")
