@@ -22,6 +22,7 @@ I'm Polak Das, a learner 🕸
 - 🌱 I’m currently learning Django, Git, Docker
 - 👯 I’m looking to collaborate on Python based project
 - 🤔 I’m looking for help with Docker
+- 😍 I love distro hopping. 🐧
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/polak-das-shawon)
 
 -----
