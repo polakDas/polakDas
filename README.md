@@ -1,6 +1,6 @@
 ### Bonjour 🙂
 
-I'm Polak Das, a learner 🎨
+I'm Polak Das, a learner 🕸
 
 
 |T|h|i|n|g|s||I||💚|:|
@@ -14,8 +14,8 @@ I'm Polak Das, a learner 🎨
 |`M`| | |`L`|| | | |`R`| | |
 |`A`| | |`O`| |`L`| | | | | |
 |`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
-|`I`| | |`Y`| |`N`|`E`| | | | |
-|`S`| | | | |`U`|`M`| | | | |
+|`I`| | |`Y`| |`N`| | | | | |
+|`S`| | | | |`U`| | | | | |
 |`M`| | | | |`X`| | | | | |
 
 - 🔭 I’m currently working on a 'Inventory Management System'[^1].
