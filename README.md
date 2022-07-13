@@ -18,6 +18,8 @@ I'm Polak Das, a learner 🕸
 |`S`| | | | |`U`| | | | | |
 |`M`| | | | |`X`| | | | | |
 
+![Polak's total commit](https://github-readme-stats.vercel.app/api?username=polakDas&hide=prs,stars,issues,contribs&count_private=true&theme=tokyonight&hide_rank=true)
+
 - 🔭 I’m currently working on a 'Inventory Management System'[^1].
 - 🌱 I’m currently learning Django, Git, Docker
 - 👯 I’m looking to collaborate on Python based project
