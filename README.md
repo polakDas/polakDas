@@ -18,8 +18,8 @@ I'm Polak Das, a learner 🕸
 |`S`| | | | |`U`| | | | | |
 |`M`| | | | |`X`| | | | | |
 
-![Polak's total commit](https://github-readme-stats.vercel.app/api?username=polakDas&hide=prs,stars,issues,contribs&count_private=true&theme=tokyonight&hide_rank=true)
-![Polak's streak](https://github-readme-streak-stats.herokuapp.com/?user=polakDas&theme=tokyonight&hide_border=true)
+![Polak's streak](https://github-readme-streak-stats.herokuapp.com/?user=polakDas&theme=tokyonight&layout=compact&date_format=F%20y&hide_border=true)
+![Polak's total commit](https://github-readme-stats.vercel.app/api?username=polakDas&hide=prs,stars,issues,contribs&count_private=true&theme=tokyonight&hide_rank=true&hide_border=true)
 
 - 🔭 I’m currently working on a 'Inventory Management System'[^1].
 - 🌱 I’m currently learning Django, Git, Docker
