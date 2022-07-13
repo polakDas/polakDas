@@ -23,7 +23,7 @@ I'm Polak Das, a learner 🕸
 - 👯 I’m looking to collaborate on Python based project
 - 🤔 I’m looking for help with Docker
 - 😍 I love distro hopping. 🐧
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/polak-das-shawon)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/polak-das-shawon) or [Facebook](https://facebook.com/polak.ds "Polak Das")
 
 -----
 
