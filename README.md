@@ -30,4 +30,4 @@ I'm Polak Das, a learner 🕸
 
 -----
 
-[^1]: Private repository. [Demo](https://https://inventory.thecreationbd.com/ "The Creation BD")
+[^1]: Private repository. [Demo](https://inventory.thecreationbd.com/ "The Creation BD")
