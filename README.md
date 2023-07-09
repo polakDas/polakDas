@@ -9,7 +9,7 @@
 [![Leetcode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode)](https://leetcode.com/polakDas)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=yahoo)](mailto:polak.das@yahoo.com)
 
-## Passionate Learner | Linux Enthusiast
+## Passionate Learner | Linux Lover
 
 ---
 
@@ -49,13 +49,17 @@
 
 | GitHub Streak Stats                                                                     | GitHub Stats                                                                                                          |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=polakdas) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=polakdas&layout=compact&langs_count=6) |
+| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=polakDas) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=polakDas&layout=compact&langs_count=6) |
 
 ---
 
+<div align="center">
+
 ### GitHub Trophy
 
-[![polakdas](https://github-profile-trophy.vercel.app/?username=polakdas)](https://github.com/ryo-ma/github-profile-trophy)
+[![polakDas](https://github-profile-trophy.vercel.app/?username=polakdas&row=1&theme=monokai)](https://github.com/polakDas)
+
+</div>
 
 ---
 
