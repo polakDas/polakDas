@@ -47,14 +47,9 @@
 
 ---
 
-<div style="display:flex">
-    <div style="flex:1; margin-right: 20px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=polakdas&" alt="GitHub Streak Stats" />
-    </div>
-    <div style="flex:1;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=polakdas&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
-    </div>
-</div>
+| GitHub Streak Stats                                                                     | GitHub Stats                                                                                                          |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=polakdas) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=polakdas&layout=compact&langs_count=6) |
 
 ---
 
