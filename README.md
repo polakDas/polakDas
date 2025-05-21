@@ -1,132 +1,165 @@
-# Polak Das Shawon
+<div align="center">
+  <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" alt="Header Image" width="100%" />
+</div>
 
-### Passionate learner and developer, always exploring new technologies and seeking opportunities to enhance my skills
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/polak-das-shawon)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/polakDas)
-[![Leetcode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode)](https://leetcode.com/polakDas)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=yahoo)](mailto:polak.das@yahoo.com)
-
-## Passionate Learner | Linux Lover
-
----
-
-**⭐️ Here are some highlights about me:**
-
-- 💻 Developer with over 2 years of professional experience.
-- 📚 Strong ability to adapt to new technologies and environments
-- 🏆 Passionate about problem solving
-- ⌛ Familiar with Agile development methodologies, such as Scrum
-- 🕒 Skilled in managing time and prioritizing tasks effectively
-- 📦 Familiar with Docker for containerization
-- ❤️ Linux enthusiast and has experience in Linux server management.
-
-👉 Check out some of my professional projects:
-
-### Management Information System
-
-![MIS](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![IMS](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MIS](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![MIS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MIS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-
-- Developed a web-based MIS to streamline business processes and enhance decision-making capabilities.
-
-### Inventory Management System
-
-![IMS](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![IMS](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![IMS](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![IMS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![IMS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-
-- Developed an Inventory Management System for efficient product tracking and sales.
-
----
-
-| GitHub Streak Stats                                                                     | GitHub Stats                                                                                                          |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=polakDas) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=polakDas&layout=compact&langs_count=6) |
-
----
+<h1 align="center">Hi there, I'm Polak Das Shawon 👋</h1>
 
 <div align="center">
-
-### GitHub Trophy
-
-[![polakDas](https://github-profile-trophy.vercel.app/?username=polakdas&row=1&theme=monokai)](https://github.com/polakDas)
-
+  🚀 Passionate Learner | 💻 Full Stack Developer | 🐧 Linux Enthusiast
 </div>
 
 ---
 
-### Languages and Tools I Use:
+<div align="center">
+  <a href="https://linkedin.com/in/polak-das-shawon">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/polakDas">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/polakDas">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="mailto:polak.das@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=yahoo" />
+  </a>
+</div>
 
-<p align="left">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-    </a>
-</p>
+---
+```javascript
+const CrazyChickenDev = {
+    pronouns: "he" | "him",
+    location: ["benin city, ng"],
+    contact: ["dannychukz15@gmail.com"],
+    portfolio: ["https://nwaobidaniel.netlify.app"],
+    collaborations: ["IoT", "robotics", "pentesting", "security research techniques", 
+                    "embedded systems engineering"],
+    workingOn: ["building a solid career in the cyber-security field here in my country..."],
+    learning: ["front-End", "web dev", "node.js", "devOps with azure"],
+    askMeAbout: ["emerging trends", "android rom development", "darknet diaries", "robotics", 
+                "tech", "cyber-ops", "crypto", "music"],
+    hobbies: {
+        major: {
+            indoor: ["dancing", "cooking","watching animes", "gaming"],
+	    outdoor: ["traveling", "playing soccer"],
+        },
+        funFact: {
+            secret: ["I freaking love music", "dogs"],
+        }        
+    }
+};
+```
+---
+## 💡 About Me
+
+- 🧠 2+ years of hands-on development experience in both frontend and backend technologies.
+- ⚙️ Adept at problem-solving, debugging, and adapting to new tech quickly.
+- 🔁 Practiced in Agile methodologies and collaborative development (Scrum, Kanban).
+- 📦 Comfortable with Docker, CI/CD, and deploying to Linux-based servers.
+- ❤️ Advocate for open-source software and clean, maintainable code.
+
+---
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+**Languages**  
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+<br>
+
+**Frameworks & Libraries**  
+<br>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+
+<br>
+
+**Tools & Platforms**  
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white"/>
+
+</div>
+
 
 ---
 
-⭐️ Get in touch with me and let's collaborate on some exciting projects! ⭐️
+## 🚀 Projects
+
+# 🔧 Management Information System (MIS)
+
+<div align="center">
+
+## Tech Stack
+<br>
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+> Developed a web-based MIS to streamline business processes and enhance decision-making.
+
+</div>
+
+
+
+
+---
+
+# 📦 Inventory Management System
+
+<div align="center">
+
+## Tech Stack:  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+> Built an inventory solution to manage product tracking, stock, and reporting efficiently.
+
+</div>
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=polakDas&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polakDas&layout=compact&theme=react&langs_count=8" />
+</div>
+
+---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=polakDas&theme=monokai&column=7" />
+</div>
+
+---
+
+## 🤝 Let's Collaborate
+
+> I’m always open to new challenges and collaboration opportunities.  
+> Let’s connect and build something great together!
 
 ---
