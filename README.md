@@ -27,20 +27,20 @@
 
 ---
 ```javascript
-const CrazyChickenDev = {
+const PolakDas = {
     pronouns: "he" | "him",
-    location: ["benin city, ng"],
-    contact: ["dannychukz15@gmail.com"],
-    portfolio: ["https://nwaobidaniel.netlify.app"],
-    collaborations: ["IoT", "robotics", "pentesting", "security research techniques", 
+    location: ["Dhaka city, BD"],
+    contact: ["pulok3968@gmail.com"],
+    portfolio: ["https://github.com/polakdas"],
+    collaborations: ["IoT", "AI", "pentesting", " research techniques", 
                     "embedded systems engineering"],
-    workingOn: ["building a solid career in the cyber-security field here in my country..."],
-    learning: ["front-End", "web dev", "node.js", "devOps with azure"],
+    workingOn: ["building a solid career in the medical record & fintech field here in my country..."],
+    learning: ["front-End", "web dev", "node.js", "devOps with Azure"],
     askMeAbout: ["emerging trends", "android rom development", "darknet diaries", "robotics", 
                 "tech", "cyber-ops", "crypto", "music"],
     hobbies: {
         major: {
-            indoor: ["dancing", "cooking","watching animes", "gaming"],
+            indoor: ["dancing", "cooking"," watching anime", "gaming"],
 	    outdoor: ["traveling", "playing soccer"],
         },
         funFact: {
