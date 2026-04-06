@@ -19,7 +19,7 @@
 ## 🙋 About Me
 
 - 👋 My official name is **Polak Das** (pronounced **Pulok Das**).
-- 💼 Working as a **Software Engineer at [CMED Health](https://cmedhealth.com)**.
+- 💼 Working as a **Software Engineer at [CMED Health](https://cmed.com.bd)**.
 - ☕ Current stack: **Java + Spring Boot**.
 - 🐍 Previously worked extensively with **Python**.
 - 🌍 While I work in digital health, I'm intentionally growing as an engineer across domains.
