@@ -4,8 +4,8 @@
 
 *Curious mind, lifelong learner — building technology that helps people and improves lives.*
 
-<p align="right">
-  <img src="https://media.giphy.com/media/IgpAALi5hEv1IFmCrZ/giphy.gif" alt="Rick and Morty" width="180" />
+<p align="center">
+  <img src="https://media.giphy.com/media/IgpAALi5hEv1IFmCrZ/giphy.gif" alt="Rick and Morty" width="350px"/>
 </p>
 
 ## Introduction
@@ -37,5 +37,5 @@ I’m a software engineer currently working in digital health, building reliable
 
 ## Contact / Connect
 - LinkedIn: [linkedin.com/in/polak-das-shawon](https://linkedin.com/in/polak-das-shawon)
-- Email: *[add your email]*
+- Email: [polak.das@yahoo.com](mailto:polak.das@yahoo.com)
 - GitHub: [github.com/polakDas](https://github.com/polakDas)
