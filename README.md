@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/nIcN3FJhsyCMBJUhnw/giphy.gif" alt="Happy Rick and Morty" width="350px"/>
+  <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" alt="Happy Rick and Morty"/>
 </p>
 
 ---
