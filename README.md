@@ -29,8 +29,9 @@
 
 Backend engineer with **4+ years** of hands-on experience designing, building, and operating production-grade software:
 
-- 🏥 **HealthTech specialist** — active contributor to [OpenMRS](https://openmrs.org) and Bahmni; built and maintains the Digital Health Care (DHC) platform at [CMED Health](https://cmed.com.bd)
-- 💳 **Payments & integrations** — implemented Nagad, Bkash, and Ekpay payment gateway integrations serving real patients
+- 🏥 **HealthTech specialist — OpenMRS & Bahmni** — active contributor to [OpenMRS](https://openmrs.org) and Bahmni, improving Shared Health Records and medical data interoperability
+- 🏥 **HealthTech specialist — DHC Platform** — built and maintains the Digital Health Care (DHC) platform at [CMED Health](https://cmed.com.bd)
+- 💳 **Payments & integrations** — implemented Nagad, bKash, and Ekpay payment gateway integrations serving real patients
 - ⚙️ **Backend ownership** — REST APIs, JPA/Hibernate, CI/CD pipelines, and database design at scale in Spring Boot and Django
 - 🖥️ **Linux ops** — 7+ years of daily Linux use, managing VPS deployments, server automation, and performance tuning
 - 🎓 Currently pursuing **M.Sc. in Computer Science** at Jahangirnagar University
@@ -74,7 +75,7 @@ Backend engineer with **4+ years** of hands-on experience designing, building, a
 
 **Software Engineer — [CMED Health](https://cmed.com.bd)** &nbsp;`Aug 2023 – Present`
 
-- Integrated **Nagad, Bkash, and Ekpay** payment gateways into the DHC platform, directly enabling digital health payment flows for patients
+- Integrated **Nagad, bKash, and Ekpay** payment gateways into the DHC platform, directly enabling digital health payment flows for patients
 - Contributed core backend features to the **Digital Health Care (DHC)** system using Spring Boot, Hibernate, JPA, and MySQL
 - Contributing to **OpenMRS / Bahmni Shared Health Records** — improving interoperability and healthcare data accessibility at a national scale
 - Owned server management, CI/CD pipeline setup, and deployment automation for production services
